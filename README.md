@@ -1,2 +1,2 @@
 # Python_Raspberry-PI
-Python code for controlling motors in raspberry pi 
+I recently came up with python code for controlling  raspberry pi 
